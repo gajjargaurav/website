@@ -1,6 +1,6 @@
 # London Node.js User Group
 
-The code for http://lnug.org
+The code for http://lnug.org - GG
 
 ## Dependencies
 
